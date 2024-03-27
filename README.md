@@ -1,3 +1,5 @@
+Credit card Transaction data used as input for this model can be found using this link: https://drive.google.com/file/d/1XHUZauuFawrus3ZTAb6irwekqKvuWq_z/view?usp=share_link
+
 # Execution Instructions
 
 # Python version 3.10.4
