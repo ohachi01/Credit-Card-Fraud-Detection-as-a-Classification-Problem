@@ -1,3 +1,10 @@
+# CREDIT CARD FRAUD DETECTION AS A CLASSIFICATION PROBLEM
+By Chimbudike Ohakim
+
+Project Objective: The objective of my project is to develop and implement an effective online credit card fraud detection system using machine learning algorithms. Our aim was to leverage advanced analytics and predictive modeling techniques to accurately identify fraudulent transactions in real-time, thereby minimizing financial losses and enhancing security for both cardholders and financial institutions. By integrating cutting-edge technologies with comprehensive data analysis, our goal was to create a robust and scalable solution capable of adapting to evolving fraud patterns and ensuring the integrity of online transactions
+
+Project background: This project involves Like any other technology that has been introduced in the world, the internet also comes with pros and cons. All of us enjoy the pros as the internet has changed our lifestyle by enhancing our communication. But, at the same time, we are witnessing digital frauds, which include fraudulent transactions through stolen credit cards. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced; the positive class (frauds) account for 0.172% of all transactions. The dataset has been collected and analyzed during a research collaboration of Worldline and the Machine Learning Group (http://mlg.ulb.ac.be) of ULB (Universite Libre de Bruxelles) on big data mining and fraud detection. More details on current and past projects on related topics are available on http://mlg.ulb.ac.be/BuFence and http://mlg.ulb.ac.be/ARTML.
+
 Credit card Transaction data used as input for this model can be found using this link: https://drive.google.com/file/d/1XHUZauuFawrus3ZTAb6irwekqKvuWq_z/view?usp=share_link
 
 # Execution Instructions
